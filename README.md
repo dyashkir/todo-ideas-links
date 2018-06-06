@@ -10,6 +10,8 @@
 1. https://arxiv.org/pdf/1805.08353.pdf
 
 ## Legal documents
-    https://wwwmatthes.in.tum.de/file/1u6tkmymdiu6y/Sebis-Public-Website/-/Extending-Full-Text-Search-for-Legal-Document-Collections-using-Word-Embeddings/La16c.pdf
+Comparing two sentences or better clauses for "sameness"
+
+1. https://wwwmatthes.in.tum.de/file/1u6tkmymdiu6y/Sebis-Public-Website/-/Extending-Full-Text-Search-for-Legal-Document-Collections-using-Word-Embeddings/La16c.pdf
 
 ## Pisaro style, combining style from many paintings?
