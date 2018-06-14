@@ -12,6 +12,9 @@
 ## Legal documents
 Comparing two sentences or better clauses for "sameness"
 
+1. https://www.kaggle.com/rajasankar/similar-sentences-clustered-data
 1. https://wwwmatthes.in.tum.de/file/1u6tkmymdiu6y/Sebis-Public-Website/-/Extending-Full-Text-Search-for-Legal-Document-Collections-using-Word-Embeddings/La16c.pdf
+1. Generating simillar clauses?
+
 
 ## Pisaro style, combining style from many paintings?
