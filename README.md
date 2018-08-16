@@ -1,3 +1,6 @@
+## Medical
+
+![preprocessing for CT scans notebook](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
 ## Sentence to sentence comparison of similarity
 
 ![](./img/sentence_comparison-naive.png)
@@ -18,3 +21,4 @@ Comparing two sentences or better clauses for "sameness"
 
 
 ## Pisaro style, combining style from many paintings?
+
