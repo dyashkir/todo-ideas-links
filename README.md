@@ -1,8 +1,8 @@
 ## Medical
 
-![preprocessing for CT scans notebook](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
+[preprocessing for CT scans notebook](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
 
-![xray chest pneumonia classifier](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+[xray chest pneumonia classifier](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 ## Sentence to sentence comparison of similarity
 
